@@ -16,7 +16,7 @@
 				<Opcode Name="EffectResult" Id="606" />
 				<Opcode Name="ActorControl" Id="411" />
 				<Opcode Name="ActorControlSelf" Id="839" />
-				<Opcode Name="ActorControlTarget" Id="985" />				
+				<Opcode Name="ActorControlTarget" Id="985" />
 				<Opcode Name="MapEffect" Id="0" />
 				<Opcode Name="EventPlay" Id="0" />
 				<Opcode Name="EventPlay64" Id="0" />
