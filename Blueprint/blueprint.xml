@@ -12,11 +12,11 @@
 				<Opcode Name="Ability16" Id="911" />
 				<Opcode Name="Ability24" Id="178" />
 				<Opcode Name="Ability32" Id="124" />
-				<Opcode Name="ActorCast" Id="417" />
+				<Opcode Name="ActorCast" Id="124" />
 				<Opcode Name="EffectResult" Id="276" />
-				<Opcode Name="ActorControl" Id="712" />
-				<Opcode Name="ActorControlSelf" Id="691" />
-				<Opcode Name="ActorControlTarget" Id="224" />
+				<Opcode Name="ActorControl" Id="639" />
+				<Opcode Name="ActorControlSelf" Id="516" />
+				<Opcode Name="ActorControlTarget" Id="826" />
 				<Opcode Name="MapEffect" Id="0" />
 				<Opcode Name="EventPlay" Id="0" />
 				<Opcode Name="EventPlay64" Id="0" />
